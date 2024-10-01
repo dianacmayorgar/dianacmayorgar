@@ -80,7 +80,10 @@ Let’s connect and transform your data into intelligent action! 🌟
   <img src="https://img.shields.io/badge/Web_Scraping-BB7C4C?style=for-the-badge&logo=web&logoColor=E1D0D1" alt="Web Scraping" height="30"/>
 </a>
 
+![Diana's github stats](https://github-readme-stats.vercel.app/api?username=dianacmayorgar&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianacmayorgar&layout=compact&theme=dark&hide_border=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dianacmayorgar)](https://github.com/gkhan205/github-profile-trophy)
 
 
 <!--
