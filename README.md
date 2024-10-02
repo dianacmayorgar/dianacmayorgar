@@ -23,7 +23,7 @@ Let’s connect and transform your data into intelligent action! 🌟
   <img src="https://img.shields.io/github/followers/dianacmayorgar?label=follow&style=social" alt="GitHub" height="25" />
 </a>
 
-## Tecnologías y Herramientas
+## Technologies and Tools
 
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-E1D0D1?style=for-the-badge&logo=python&logoColor=637077" alt="Python" height="30"/>
